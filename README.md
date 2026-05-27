@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am a well-being and performance coach at JP Morgan Chase transitioning into cybersecurity, where I aim to apply the analytical thinking, attention to detail, and high-pressure problem-solving I've developed in a large-scale corporate environment. Working inside one of the world's leading financial institutions has given me direct exposure to enterprise-level operations and ignited a passion for protecting the systems and people organizations depend on. I am committed to building the technical expertise to match the professional foundation I bring — and to contributing meaningfully to security analysis and threat detection.
 
 <!--
 **ckespejo/ckespejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
